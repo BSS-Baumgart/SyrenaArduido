@@ -14,12 +14,12 @@
 #define RELAY1_PIN 18  // IN1
 #define RELAY2_PIN 8   // IN2
 
-const char *WIFI_SSID = "Bongenet";
-const char *WIFI_PASS = "BongEe1008!";
+const char *WIFI_SSID = "xxxxxxxxx";
+const char *WIFI_PASS = "xxxxxxxxxxxxxxx";
 
 // ===== Fallback AP (gdy STA nie wstanie) =====
 const char *AP_SSID = "ESP-SIREN";
-const char *AP_PASS = "12345678";
+const char *AP_PASS = "xxxxxxxxx";
 static bool wifiConnected = false;
 
 Audio audio;
